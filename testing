@@ -1,11 +1,5 @@
-def check_temp(temp):
-
-
-
-
-
-
-
-print(check_temp(5))
-print(check_temp(20))
-print(check_temp(35))
+string1 = "Python"
+string1 = string1.upper()
+for char in string1:
+	print(string1[char])
+	
