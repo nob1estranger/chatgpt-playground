@@ -1,1 +1,11 @@
+def check_temp(temp):
 
+
+
+
+
+
+
+print(check_temp(5))
+print(check_temp(20))
+print(check_temp(35))
